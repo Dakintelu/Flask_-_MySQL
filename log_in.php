@@ -16,7 +16,7 @@
                     <input type="text" class=form-control>
                 </div>
                 <div class="row mb-6">
-                    <label class="col-sm-3"> Enter Matriculation#</label>
+                    <label class="col-sm-3"> Enter Password </label>
                 </div>
                 <div>
                     <input type="text" class=form-control>
