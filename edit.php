@@ -2,13 +2,13 @@
 $servename = "localhost";
 $username = "root";
 $password = "";
-$database = "s_m_s";
+$database = "s_m_s";         
 
 //Create Connection
-$connection = new mysqli($servename, $username, $password, $database);
+$connection = new mysqli($servename, $username, $password, $database);      
 
 $id = "";
-$name = "";
+$name = "";      
 $matric = "";
 $dep = "";
 $book = "";
